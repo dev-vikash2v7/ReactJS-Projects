@@ -1,0 +1,14 @@
+
+// Ecommerce Website
+// Deployed an Ecommerce site with  Django as Backend and Paytm supported payment gateway.
+
+// Automate Live Attendance Marker
+// Created an Automate Face Detected  Attendance counter for student. with Python scikit-learn library for learning faces and OpenCV for Image processing.
+
+// awards & Achivements
+// ------------------------
+
+// Runner Up Team in Science Exhibition for project in  Attendance system with Machine Learning.
+// Topper of NPTEL Certification program in DSA using Python among 2000+ students with above 90% score.
+// HackerRank Certifications on Python , Problem Solving(intermediate) , JavaScript(basic) and SQL(advance).
+// Certificates - Machine Learning with IBM

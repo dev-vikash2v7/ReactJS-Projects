@@ -1,0 +1,41 @@
+.blogs {
+  display: grid;
+  margin: auto;
+  width: 90%;
+  gap: 2rem;
+  /* grid-template-columns: repeat(3 , 1fr); */
+  /* grid-template-columns: repeat(3 , minmax(240px , 1fr)); */
+  grid-template-columns: repeat(auto-fit , minmax(240px , 1fr));
+  /* grid-auto-rows: 1fr; */
+  /* grid-template-columns: repeat(auto-fill , minmax(240px , 300px)); */
+}
+.card {
+  text-align: center;
+  border: 2px solid blue;
+}
+#card0
+{  
+  /* grid-column: span 2 / auto;   col will wide */
+   /* grid-row-start: span 6;
+   grid-row-end: auto;  */
+}
+#card1{
+  /* grid-row: span 2 / auto;  */   /* column will tall */
+  /* grid-column: span 2 / auto; */
+
+}
+.home-page {
+  height: 90vh;
+  background: linear-gradient(
+    to right,
+    #41418d 3%,
+    #361919 25%,
+    #b23636 58%,
+    #54c854 70%,
+    #c4933a 100%
+  );
+  color: wheat;
+}
+.login-mess {
+  padding: 30px 30px;
+}

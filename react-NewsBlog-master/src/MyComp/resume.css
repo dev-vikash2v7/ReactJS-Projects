@@ -1,0 +1,83 @@
+.resume{
+    margin : 0 auto ;
+    max-width: 800px;
+    padding: 30px;
+    background: black;
+    color: aliceblue;
+    height: 100vh;
+}
+#img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: rgb(62, 62, 122);
+    float: left;
+    padding: 1rem;
+    margin: 15px;
+}
+.box-set , .box{
+border-radius: 5px;
+border: 2px solid red;
+}
+.box-set{
+    background:white;
+    color: black;
+
+}
+.box{
+
+    background-color: blueviolet;
+    /* position: relative; */
+    /* position: absolute; */
+    position : fixed ;
+    /* position : sticky; */
+    
+    /* position: static; defult value */
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    
+}
+/* For Relative */
+/* .box-1{
+    top: 20px;
+    left: 20px;
+    z-index: 4;
+}
+.box-2{
+    top: 15px;
+    left: 40px;
+    z-index: 3;
+}
+.box-3{
+    top: 10px;
+    left: 60px;
+    z-index: 2;
+}
+.box-4{
+    top: 5px;
+    left: 80px;
+    z-index: 1;
+} */
+
+/* For Absolute */
+.box-1{
+    bottom: 20px;
+    z-index: 4;
+    right: 10px;
+}
+.box-2{
+    bottom: 20px;
+    left: 10px;
+    z-index: 3;
+}
+.box-3{
+    top: 76px;
+    right: 10px;
+    z-index: 2;
+}
+.box-4{
+    top: 76px;
+    left: 10px;
+    z-index: 1;
+}

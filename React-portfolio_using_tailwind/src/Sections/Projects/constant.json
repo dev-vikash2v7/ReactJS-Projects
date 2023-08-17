@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "title":"AI Video Chat",
+            "image": "./images/video_chat.png",
+            "desc": "Video chatting website made with WebRTC and Backend with Django  . It has inbuilt AI and ML based Sign language rocognition  to detect the speech from it ",
+            "skills": ["Django", "WebRTC" , "HTML/CSS"   , "JavaScripts" , "Tenserflow" ],
+            "github": "https://github.com/vikash129",
+            "link": ""
+        },
+        {
+            "title":"Eccomerce Product ordering",
+            "image": "./images/ecomm1.png",
+            "desc": "Deployed an Ecommerce site with  Django as Backend and Paytm supported payment gateway.",
+            "skills": ["Django",   "HTML/CSS"   , "JavaScripts" , "MySQL"],
+            "github": "https://github.com/vikash129/Django-vk_GalaxyStore",
+            "link": "/"
+        },
+        {
+            "title":"Automate Live Attendance Marker",
+            "image": "./images/attendence.png",
+            "desc": "Created an Automate Face Detected  Attendance counter for student. with Python scikit-learn library for learning faces and OpenCV for Image processing.",
+            "skills": ["Python",   "OpenCV"   , "Machine Learning" ],
+            "github": "https://github.com/vikash129",
+            "link": "/"
+        }
+    ]
+}
+
